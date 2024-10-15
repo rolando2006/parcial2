@@ -1,0 +1,24 @@
+F:\Youtube Channel\Dotnet Mob\C# tutorials\C# Dapper CRUD\project\DapperCRUD\DapperCRUD\bin\Debug\DapperCRUD.exe.config
+F:\Youtube Channel\Dotnet Mob\C# tutorials\C# Dapper CRUD\project\DapperCRUD\DapperCRUD\bin\Debug\DapperCRUD.exe
+F:\Youtube Channel\Dotnet Mob\C# tutorials\C# Dapper CRUD\project\DapperCRUD\DapperCRUD\bin\Debug\DapperCRUD.pdb
+F:\Youtube Channel\Dotnet Mob\C# tutorials\C# Dapper CRUD\project\DapperCRUD\DapperCRUD\obj\Debug\DapperCRUD.csprojResolveAssemblyReference.cache
+F:\Youtube Channel\Dotnet Mob\C# tutorials\C# Dapper CRUD\project\DapperCRUD\DapperCRUD\obj\Debug\DapperCRUD.Properties.Resources.resources
+F:\Youtube Channel\Dotnet Mob\C# tutorials\C# Dapper CRUD\project\DapperCRUD\DapperCRUD\obj\Debug\DapperCRUD.csproj.GenerateResource.Cache
+F:\Youtube Channel\Dotnet Mob\C# tutorials\C# Dapper CRUD\project\DapperCRUD\DapperCRUD\obj\Debug\DapperCRUD.exe
+F:\Youtube Channel\Dotnet Mob\C# tutorials\C# Dapper CRUD\project\DapperCRUD\DapperCRUD\obj\Debug\DapperCRUD.pdb
+F:\Youtube Channel\Dotnet Mob\C# tutorials\C# Dapper CRUD\project\DapperCRUD\DapperCRUD\bin\Debug\Dapper.dll
+F:\Youtube Channel\Dotnet Mob\C# tutorials\C# Dapper CRUD\project\DapperCRUD\DapperCRUD\bin\Debug\Dapper.xml
+F:\Youtube Channel\Dotnet Mob\C# tutorials\C# Dapper CRUD\project\DapperCRUD\DapperCRUD\obj\Debug\DapperCRUD.Form1.resources
+C:\Users\Usuario\Downloads\DapperCRUD\DapperCRUD\DapperCRUD\bin\Debug\DapperCRUD.exe.config
+C:\Users\Usuario\Downloads\DapperCRUD\DapperCRUD\DapperCRUD\bin\Debug\DapperCRUD.exe
+C:\Users\Usuario\Downloads\DapperCRUD\DapperCRUD\DapperCRUD\bin\Debug\DapperCRUD.pdb
+C:\Users\Usuario\Downloads\DapperCRUD\DapperCRUD\DapperCRUD\bin\Debug\Dapper.dll
+C:\Users\Usuario\Downloads\DapperCRUD\DapperCRUD\DapperCRUD\bin\Debug\Dapper.xml
+C:\Users\Usuario\Downloads\DapperCRUD\DapperCRUD\DapperCRUD\obj\Debug\DapperCRUD.csproj.AssemblyReference.cache
+C:\Users\Usuario\Downloads\DapperCRUD\DapperCRUD\DapperCRUD\obj\Debug\DapperCRUD.Form1.resources
+C:\Users\Usuario\Downloads\DapperCRUD\DapperCRUD\DapperCRUD\obj\Debug\DapperCRUD.Properties.Resources.resources
+C:\Users\Usuario\Downloads\DapperCRUD\DapperCRUD\DapperCRUD\obj\Debug\DapperCRUD.csproj.GenerateResource.cache
+C:\Users\Usuario\Downloads\DapperCRUD\DapperCRUD\DapperCRUD\obj\Debug\DapperCRUD.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Downloads\DapperCRUD\DapperCRUD\DapperCRUD\obj\Debug\DapperCRUD.csproj.Up2Date
+C:\Users\Usuario\Downloads\DapperCRUD\DapperCRUD\DapperCRUD\obj\Debug\DapperCRUD.exe
+C:\Users\Usuario\Downloads\DapperCRUD\DapperCRUD\DapperCRUD\obj\Debug\DapperCRUD.pdb
